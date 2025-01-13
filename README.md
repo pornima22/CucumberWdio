@@ -15,3 +15,5 @@ Browser - Chrome
 
 Website:
 https://www.saucedemo.com/
+
+![image](https://github.com/user-attachments/assets/32864737-9ac9-44a8-af89-11b56ec3e44a)
